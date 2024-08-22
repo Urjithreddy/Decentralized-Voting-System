@@ -11,4 +11,5 @@ Visibility and Data Retrieval: Get candidate details and voting status.
 Solidity: For smart contract development.
 Truffle Suite: For development, testing, and deployment of smart contracts.
 Ganache: For local blockchain simulation.
-
+![image](https://github.com/user-attachments/assets/1e69d757-8ae7-4a90-8413-02b38afaa720)
+![image](https://github.com/user-attachments/assets/d4798ab0-f4a7-476e-97d0-180e4a2e8952)
